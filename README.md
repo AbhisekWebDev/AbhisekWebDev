@@ -11,12 +11,6 @@
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-<!-- Articles Section -->
-### 📝 My Recent Articles
-- [Getting Started with React](#)
-- [How to Deploy a Node.js App](#)
-- [JavaScript Tips for Beginners](#)
-
 <!-- Support Me -->
 <p align="center">
   <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
