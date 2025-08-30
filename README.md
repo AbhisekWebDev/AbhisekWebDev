@@ -15,8 +15,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<!-- Support Me -->
-
 <!-- GitHub Stats -->
 <h2>📊 My GitHub Stats</h2>
 
@@ -30,5 +28,12 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact&theme=radical" /> -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact&theme=radical&include_all_commits=true" />
 </p>
+
+<!-- LeetCode Stats -->
+<h2>LeetCode Stats</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AbhisekWebDev?theme=dark&font=Source%20Sans%20Pro&ext=heatmap" />
+</p>
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=AbhisekWebDev&color=blue)
