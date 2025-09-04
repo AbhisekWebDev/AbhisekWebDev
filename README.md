@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AbhisekWebDev&show_icons=true&theme=radical" />
 </p>
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=AbhisekWebDev&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=AbhisekWebDev&theme=radical)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhisekWebDev&theme=radical" />
 </p>
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact&theme=radical" /> -->
