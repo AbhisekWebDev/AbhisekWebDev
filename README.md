@@ -25,7 +25,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhisekWebDev&theme=radical" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact&theme=radical&cache_seconds=1800 " />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact&theme=radical&cache_seconds=1800" />
+
 <!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact&theme=radical&include_all_commits=true" /> -->
 </p>
 
