@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact&theme=radical&cache_seconds=1800&hide=html,css"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact&theme=radical&cache_seconds=1800&hide=html,css,scss,less"
        alt="Top Languages" />
 
 <!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact&theme=radical&include_all_commits=true" /> -->
