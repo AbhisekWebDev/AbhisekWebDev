@@ -16,7 +16,7 @@
 <h2>📊 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhisekWebDev&show_icons=true&theme=radical" alt="AbhisekWebDev's GitHub stats" />
+  <img src="https://github-readme-stats-seven-roan-wyofko53tm.vercel.app/api?username=AbhisekWebDev&show_icons=true&theme=radical" alt="AbhisekWebDev's GitHub stats" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact&theme=radical&hide=html,css,scss,less" 
+    src="https://github-readme-stats-seven-roan-wyofko53tm.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact&theme=radical&hide=html,css,scss,less" 
     alt="Top Languages" />
 </p>
 
