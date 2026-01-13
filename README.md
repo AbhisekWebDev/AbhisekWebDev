@@ -16,17 +16,17 @@
 <h2>📊 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhisekWebDev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhisekWebDev&show_icons=true&theme=radical" alt="AbhisekWebDev's GitHub stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhisekWebDev&theme=radical" />
-</p>
-<p align="center">
-    <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact&theme=radical&cache_seconds=1800&hide=html,css,scss,less"
-       alt="Top Languages" />
 
-<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact&theme=radical&include_all_commits=true" /> -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=AbhisekWebDev&theme=radical" alt="AbhisekWebDev's Streak" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact&theme=radical&hide=html,css,scss,less" 
+    alt="Top Languages" />
 </p>
 
 <!-- LeetCode Stats -->
