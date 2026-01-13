@@ -19,9 +19,9 @@
   <img src="https://github-readme-stats-seven-roan-wyofko53tm.vercel.app/api?username=AbhisekWebDev&show_icons=true&theme=radical&v=1" alt="AbhisekWebDev's GitHub stats" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com/?user=AbhisekWebDev&theme=radical" alt="AbhisekWebDev's Streak" />
-</p>
+</p> -->
 
 <p align="center">
   <img 
