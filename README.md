@@ -4,20 +4,20 @@
 
 <!-- Badges for skills -->
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN-black?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MERN-black?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
 <!-- GitHub Stats -->
 <h2>📊 My GitHub Stats</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-seven-roan-wyofko53tm.vercel.app/api?username=AbhisekWebDev&show_icons=true&theme=radical&v=1" alt="AbhisekWebDev's GitHub stats" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com/?user=AbhisekWebDev&theme=radical" alt="AbhisekWebDev's Streak" />
