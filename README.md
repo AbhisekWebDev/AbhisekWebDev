@@ -84,8 +84,9 @@ I actively practice **Data Structures & Algorithms**, focusing on:
 ---
 
 ### 🧠 LeetCode Profile
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/AbhisekWebDev?theme=transparent&hide_border=true" />
+<h2>LeetCode Stats</h2> 
+<p align="center"> 
+  <img src="https://leetcard.jacoblin.cool/AbhisekWebDev?theme=dark&font=Source%20Sans%20Pro&ext=heatmap" /> 
 </p>
 
 ---
