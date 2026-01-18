@@ -26,6 +26,56 @@
 
 ---
 
+## 📌 Featured Projects
+
+### 🔹 AIM – AI Medical Diagnosis System
+A MERN-based application where users input symptoms and the system predicts possible diseases using AI logic.
+
+**Highlights:**
+- Symptom-based disease prediction
+- Modular backend architecture
+- Secure user authentication
+- Scalable database design
+
+---
+
+### 🔹 Student Management System (MERN)
+A role-based system for managing students, faculty, attendance, and marks.
+
+**Highlights:**
+- Admin & faculty roles
+- JWT-based authentication
+- Attendance & marks management
+- Clean REST API structure
+
+---
+
+### 🔹 Backend Utilities & Practice Projects
+A collection of backend utilities, scripts, and data-structure implementations used for learning and experimentation.
+
+---
+
+## 🧠 Problem Solving
+
+I actively practice **Data Structures & Algorithms**, focusing on:
+- Arrays & Strings
+- Stacks & Queues
+- Linked Lists
+- Recursion
+- Basic Dynamic Programming
+
+🔗 **LeetCode:** https://leetcode.com/AbhisekWebDev  
+🔗 **GitHub:** https://github.com/AbhisekWebDev
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/AbhisekWebDev  
+- LeetCode: https://leetcode.com/AbhisekWebDev
+
+---
+
 ### 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhisekWebDev&show_icons=true"/>
