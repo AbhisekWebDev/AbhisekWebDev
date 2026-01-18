@@ -1,39 +1,50 @@
-
 <h1 align="center">Hi 👋, I'm Abhisek Kumar</h1>
-<p align="center">A passionate full-stack developer from India 🇮🇳</p>
-
-<!-- Badges for skills -->
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MERN-black?style=for-the-badge&logo=react&logoColor=white"/>
+  Full-Stack Developer | MERN Stack | Problem Solver<br/>
+  🇮🇳 India
 </p>
 
-<!-- GitHub Stats -->
-<h2>📊 My GitHub Stats</h2>
+---
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats-seven-roan-wyofko53tm.vercel.app/api?username=AbhisekWebDev&show_icons=true&theme=radical&v=1" alt="AbhisekWebDev's GitHub stats" />
-</p> -->
+### 🧑‍💻 About Me
+- Passionate full-stack developer with strong foundations in **DSA and system thinking**
+- Experienced in building **scalable MERN applications**
+- Interested in **backend architecture, APIs, and AI-driven systems**
+- Consistently improving through hands-on projects and problem solving
 
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=AbhisekWebDev&theme=radical" alt="AbhisekWebDev's Streak" />
-</p> -->
+---
 
+### 🛠️ Tech Stack
 <p align="center">
-  <img 
-    src="https://github-readme-stats-seven-roan-wyofko53tm.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact&theme=radical&hide=html,css,scss,less&v=1" 
-    alt="Top Languages" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MERN-000000?style=flat&logo=react&logoColor=white"/>
 </p>
 
-<!-- LeetCode Stats -->
-<h2>LeetCode Stats</h2>
+---
+
+### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AbhisekWebDev?theme=dark&font=Source%20Sans%20Pro&ext=heatmap" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhisekWebDev&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=AbhisekWebDev&color=blue)
+---
+
+### 🧠 LeetCode Profile
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AbhisekWebDev?theme=transparent&hide_border=true" />
+</p>
+
+---
+
+### 📈 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhisekWebDev&color=0e75b6&style=flat" />
+</p>
