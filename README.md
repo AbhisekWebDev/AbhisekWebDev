@@ -77,12 +77,8 @@ I actively practice **Data Structures & Algorithms**, focusing on:
 ---
 
 ### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhisekWebDev&show_icons=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact"/>
+<p align="center"> 
+  <img src="https://github-readme-stats-seven-roan-wyofko53tm.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact&theme=radical&hide=html,css,scss,less&v=1" alt="Top Languages" /> 
 </p>
 
 ---
