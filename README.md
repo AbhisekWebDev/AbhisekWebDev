@@ -78,19 +78,19 @@ I actively practice **Data Structures & Algorithms**, focusing on:
 
 ### 📊 GitHub Statistics - Most Used Lang.
 <p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhisekWebDev&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact" /> 
 </p>
+
+![GitHub](https://img.shields.io/badge/GitHub-Active-blue)
 
 ---
 
 ### 🧠 LeetCode Profile
 <h2>LeetCode Stats</h2> 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhisekWebDev&show_icons=true" />
   <img src="https://leetcard.jacoblin.cool/AbhisekWebDev?theme=dark&font=Source%20Sans%20Pro&ext=heatmap" /> 
 </p>
-
-![GitHub](https://img.shields.io/badge/GitHub-Active-blue)
 
 ---
 
