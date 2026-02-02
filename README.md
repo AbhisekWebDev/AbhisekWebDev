@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhisek Kumar</h1>
 <p align="center">
-  Software Engineer | Full-Stack Developer | MERN Stack | Backend & Problem Solver<br/>
+  Software Engineer | Full-Stack Developer | MERN Stack | Backend & Problem Solving<br/>
   🇮🇳 India
 </p>
 
 <p align="center">
-📍 India • 
 <a href="https://github.com/AbhisekWebDev">GitHub</a> •
 <a href="https://www.linkedin.com/in/abhisek-kumar-2316801a7/">LinkedIn</a> •
 <a href="https://leetcode.com/AbhisekWebDev">LeetCode</a>
