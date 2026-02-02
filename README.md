@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://github.com/AbhisekWebDev">GitHub</a> •
 <a href="https://www.linkedin.com/in/abhisek-kumar-2316801a7/">LinkedIn</a> •
-<a href="https://leetcode.com/AbhisekWebDev">LeetCode</a>
+<a href="https://leetcode.com/AbhisekWebDev">LeetCode</a> •
 <a href="https://my-portfolio-gamma-pied-15.vercel.app/">Portfolio</a>
 </p>
 
