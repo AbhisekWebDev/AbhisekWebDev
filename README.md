@@ -1,8 +1,20 @@
 <h1 align="center">Hi 👋, I'm Abhisek Kumar</h1>
 <p align="center">
-  Full-Stack Developer | MERN Stack | Problem Solver<br/>
+  Software Engineer | Full-Stack Developer | MERN Stack | Backend & Problem Solver<br/>
   🇮🇳 India
 </p>
+
+<p align="center">
+📍 India • 
+<a href="https://github.com/AbhisekWebDev">GitHub</a> •
+<a href="https://www.linkedin.com/in/abhisek-kumar-2316801a7/">LinkedIn</a> •
+<a href="https://leetcode.com/AbhisekWebDev">LeetCode</a>
+</p>
+
+## 🧑‍💻 Professional Summary
+
+Software Developer with experience in full-stack web development using the **MERN stack**.  
+Focused on building **scalable, user-centric web applications and RESTful APIs**, with a strong problem-solving mindset and hands-on project experience following **SDLC practices**.
 
 ---
 
@@ -24,6 +36,29 @@
   <img src="https://img.shields.io/badge/MERN-black?style=for-the-badge&logo=react&logoColor=white"/> 
 </p>
 
+**Concepts**
+- Software Engineering
+- MVC Architecture
+- RESTful APIs
+- Authentication & Authorization (JWT)
+
+---
+
+## 💼 Experience
+
+### Full Stack (MERN) Development Intern  
+**Ardent Computech Pvt. Ltd., Durgapur**  
+*Jun 2025 – Aug 2025*
+
+- Developed an **Academic & Administrative Management System** using the MERN stack
+- Implemented core academic and administrative workflows
+- Followed **SDLC**: requirement analysis, system design, implementation, testing, and documentation
+- Built scalable and responsive features using React, Node.js, Express, MongoDB
+- Led a team of **5 members**, coordinated tasks, and ensured timely delivery
+- Maintained clean code structure and documented technical architecture
+
+🔗 Project: https://github.com/AbhisekWebDev/Academic-Admin-Sys
+
 ---
 
 ## 📌 Featured Projects
@@ -36,6 +71,7 @@ A MERN-based application where users input symptoms and the system predicts poss
 - Modular backend architecture
 - Secure user authentication
 - Scalable database design
+- 🔗 GitHub: https://github.com/AbhisekWebDev/ai_med_diagnosis
 
 ---
 
@@ -47,6 +83,20 @@ A role-based system for managing students, faculty, attendance, and marks.
 - JWT-based authentication
 - Attendance & marks management
 - Clean REST API structure
+- 🔗 GitHub: https://github.com/AbhisekWebDev/Academic-Admin-Sys
+
+---
+
+### 🌐 Personal Portfolio Website (React)
+A responsive portfolio website showcasing projects, skills, and experience.
+
+**Highlights**
+- Clean UI/UX
+- Mobile-first design
+- Smooth navigation and accessibility
+
+🔗 GitHub: https://github.com/AbhisekWebDev/my-portfolio  
+🔗 Live: https://my-portfolio-gamma-pied-15.vercel.app/
 
 ---
 
@@ -73,16 +123,27 @@ I actively practice **Data Structures & Algorithms**, focusing on:
 
 - GitHub: https://github.com/AbhisekWebDev  
 - LeetCode: https://leetcode.com/AbhisekWebDev
+- Portfolio: https://my-portfolio-gamma-pied-15.vercel.app/
 
 ---
 
-### 📊 GitHub Statistics - Most Used Lang.
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhisekWebDev&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekWebDev&layout=compact" /> 
-</p>
+## 🎓 Education
 
-![GitHub](https://img.shields.io/badge/GitHub-Active-blue)
+**Bachelor of Computer Applications (Hons.)**  
+Durgapur Institute of Management and Science  
+*(MAKAUT)* — 2023–2027
+
+---
+
+### 📊 Most Used Lang.
+
+My primary programming languages based on project work and practical experience:
+
+- **JavaScript** — MERN stack applications (React, Node.js, Express)
+- **Java** — Data Structures, problem solving, backend logic
+- **Python** — Algorithms, scripting, and utility programs
+- **C** — Core programming concepts and academic foundations
+- **PHP** — Backend development and database-driven applications
 
 ---
 
